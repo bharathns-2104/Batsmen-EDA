@@ -1,0 +1,36 @@
+Player,Runs,Mins,BF,4s,6s,SR,Inns,Opposition,Ground,Start Date,Team Name,Not Out,player_id,innings_id,cumulative_runs,cumulative_4s,cumulative_6s,cumulative_balls,innings_count,out_innings,rolling_avg_runs,rolling_strike_rate,BASRA
+A Badoni,54,0,41,4,3,131.7,1,v GT,Wankhede,28-03-2022,Lucknow Super Giants,0,2,1,54,4,3,41,1,1,54,131.7073,185.7073
+A Badoni,19,18,9,0,2,211.11,2,v CSK,Brabourne,31-03-2022,Lucknow Super Giants,1,2,2,73,4,5,50,2,1,73,146,219
+A Badoni,19,30,12,3,0,158.33,1,v SRH,DY Patil,04-04-2022,Lucknow Super Giants,0,2,3,92,7,5,62,3,2,46,148.3871,194.3871
+A Badoni,10,4,3,1,1,333.33,2,v DC,DY Patil,07-04-2022,Lucknow Super Giants,1,2,4,102,8,6,65,4,2,51,156.9231,207.9231
+A Badoni,5,16,7,0,0,71.42,2,v RR,Wankhede,10-04-2022,Lucknow Super Giants,0,2,5,107,8,6,72,5,3,35.6667,148.6111,184.2778
+A Badoni,13,23,13,2,0,100,2,v RCB,DY Patil,19-04-2022,Lucknow Super Giants,0,2,6,120,10,6,85,6,4,30,141.1765,171.1765
+A Badoni,14,0,11,0,1,127.27,1,v MI,Wankhede,24-04-2022,Lucknow Super Giants,0,2,7,134,10,7,96,7,5,26.8,139.5833,166.3833
+A Badoni,4,0,4,0,0,100,1,v Punjab Kings,Pune,29-04-2022,Lucknow Super Giants,0,2,8,138,10,7,100,8,6,23,138,161
+A Badoni,15,40,18,0,0,83.33,1,v KKR,Pune,07-05-2022,Lucknow Super Giants,1,2,9,153,10,7,118,9,6,25.5,129.661,155.161
+A Badoni,8,15,11,1,0,72.72,2,v GT,Pune,10-05-2022,Lucknow Super Giants,0,2,10,161,11,7,129,10,7,23,124.8062,147.8062
+A Badoni,0,3,1,0,0,0,2,v RR,Brabourne,15-05-2022,Lucknow Super Giants,0,2,11,161,11,7,130,11,8,20.125,123.8462,143.9712
+A Badoni,18,10,7,1,2,257.14,1,v DC,Lucknow,01-04-2023,Lucknow Super Giants,0,2,12,179,12,9,137,12,9,19.8889,130.6569,150.5458
+A Badoni,23,38,18,0,0,127.77,2,v CSK,Chennai,03-04-2023,Lucknow Super Giants,0,2,13,202,12,9,155,13,10,20.2,130.3226,150.5226
+A Badoni,30,45,24,4,0,125,2,v RCB,Bengaluru,10-04-2023,Lucknow Super Giants,0,2,14,232,16,9,179,14,11,21.0909,129.6089,150.6998
+A Badoni,5,17,6,0,0,83.33,1,v Punjab Kings,Lucknow,15-04-2023,Lucknow Super Giants,1,2,15,237,16,9,185,15,11,21.5455,128.1081,149.6536
+A Badoni,1,6,4,0,0,25,1,v RR,Jaipur,19-04-2023,Lucknow Super Giants,0,2,16,238,16,9,189,16,12,19.8333,125.9259,145.7593
+A Badoni,8,22,6,0,0,133.33,2,v GT,Lucknow,22-04-2023,Lucknow Super Giants,0,2,17,246,16,9,195,17,13,18.9231,126.1538,145.0769
+A Badoni,43,49,24,3,3,179.16,1,v Punjab Kings,Mohali,28-04-2023,Lucknow Super Giants,0,2,18,289,19,12,219,18,14,20.6429,131.9635,152.6063
+A Badoni,4,23,11,0,0,36.36,2,v RCB,Lucknow,01-05-2023,Lucknow Super Giants,0,2,19,293,19,12,230,19,15,19.5333,127.3913,146.9246
+A Badoni,59,41,33,2,4,178.78,1,v CSK,Lucknow,03-05-2023,Lucknow Super Giants,1,2,20,352,21,16,263,20,15,23.4667,133.8403,157.307
+A Badoni,21,15,11,1,2,190.9,2,v GT,Ahmedabad,07-05-2023,Lucknow Super Giants,0,2,21,373,22,18,274,21,16,23.3125,136.1314,159.4439
+A Badoni,25,42,21,2,1,119.04,1,v KKR,Eden Gardens,20-05-2023,Lucknow Super Giants,0,2,22,398,24,19,295,22,17,23.4118,134.9153,158.327
+A Badoni,1,6,7,0,0,14.28,2,v MI,Chennai,24-05-2023,Lucknow Super Giants,0,2,23,399,24,19,302,23,18,22.1667,132.1192,154.2859
+A Badoni,1,4,5,0,0,20,2,v RR,Jaipur,24-03-2024,Lucknow Super Giants,0,2,24,400,24,19,307,24,19,21.0526,130.2932,151.3458
+A Badoni,8,26,10,0,0,80,1,v Punjab Kings,Lucknow,30-03-2024,Lucknow Super Giants,0,2,25,408,24,19,317,25,20,20.4,128.7066,149.1066
+A Badoni,0,5,3,0,0,0,1,v RCB,Bengaluru,02-04-2024,Lucknow Super Giants,0,2,26,408,24,19,320,26,21,19.4286,127.5,146.9286
+A Badoni,20,15,11,3,0,181.81,1,v GT,Lucknow,07-04-2024,Lucknow Super Giants,0,2,27,428,27,19,331,27,22,19.4545,129.3051,148.7597
+A Badoni,55,51,35,5,1,157.14,1,v DC,Lucknow,12-04-2024,Lucknow Super Giants,1,2,28,483,32,20,366,28,22,21.9545,131.9672,153.9218
+A Badoni,29,44,27,2,1,107.4,1,v KKR,Eden Gardens,14-04-2024,Lucknow Super Giants,0,2,29,512,34,21,393,29,23,22.2609,130.2799,152.5408
+A Badoni,18,23,13,1,0,138.46,1,v RR,Lucknow,27-04-2024,Lucknow Super Giants,1,2,30,530,35,21,406,30,23,23.0435,130.5419,153.5854
+A Badoni,6,6,6,1,0,100,2,v MI,Lucknow,30-04-2024,Lucknow Super Giants,0,2,31,536,36,21,412,31,24,22.3333,130.0971,152.4304
+A Badoni,15,17,12,0,1,125,2,v KKR,Lucknow,05-05-2024,Lucknow Super Giants,0,2,32,551,36,22,424,32,25,22.04,129.9528,151.9928
+A Badoni,55,41,30,9,0,183.33,1,v SRH,Hyderabad,08-05-2024,Lucknow Super Giants,1,2,33,606,45,22,454,33,25,24.24,133.4802,157.7202
+A Badoni,6,15,9,0,0,66.66,2,v DC,Delhi,14-05-2024,Lucknow Super Giants,0,2,34,612,45,22,463,34,26,23.5385,132.1814,155.7199
+A Badoni,22,15,10,1,2,220,1,v MI,Wankhede,17-05-2024,Lucknow Super Giants,1,2,35,634,46,24,473,35,26,24.3846,134.0381,158.4227
